@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Animaciones y transiciones en CSS</title>
+    <link rel="stylesheet" href="eje10css.css">
+</head>
+<body>
+    <div>
+        <button class="btn-modern">Boton Moderno</button>
+   </div>
+</body>
+</html>
